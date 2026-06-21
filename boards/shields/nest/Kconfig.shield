@@ -1,0 +1,5 @@
+config SHIELD_NEST_LEFT
+    def_bool $(shields_list_contains,nest_left)
+
+config SHIELD_NEST_RIGHT
+    def_bool $(shields_list_contains,nest_right)

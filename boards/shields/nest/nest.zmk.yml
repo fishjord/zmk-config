@@ -1,0 +1,15 @@
+file_format: "1"
+id: nest
+name: Nest
+type: shield
+url: https://github.com/fishjord/NestKeyboard
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - encoder
+  - studio
+siblings:
+  - nest_left
+  - nest_right
