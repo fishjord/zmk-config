@@ -26,4 +26,8 @@ include:
   - board: nice_nano
     shield: nest_right
   - board: nice_nano
+    shield: "egret_left nice_view_adapter nice_view"
+  - board: nice_nano
+    shield: "egret_right nice_view_adapter nice_view"
+  - board: nice_nano
     shield: settings_reset
