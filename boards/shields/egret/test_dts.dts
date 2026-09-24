@@ -1,7 +1,0 @@
-/dts-v1/;
-/ {
-    pro_micro_spi: spi@1000 { };
-};
-nice_view_spi: &pro_micro_spi {
-    status = "okay";
-};

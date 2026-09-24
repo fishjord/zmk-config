@@ -1,5 +1,0 @@
-config SHIELD_EGRET_LEFT
-    def_bool $(shields_list_contains,egret_left)
-
-config SHIELD_EGRET_RIGHT
-    def_bool $(shields_list_contains,egret_right)
